@@ -1,0 +1,18 @@
+D:\1150projects\1150projects\HTMLCSSGoldBadge\C#stuff\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
+D:\1150projects\1150projects\HTMLCSSGoldBadge\C#stuff\Hangman\bin\Debug\Hangman.exe.config
+D:\1150projects\1150projects\HTMLCSSGoldBadge\C#stuff\Hangman\bin\Debug\Hangman.exe
+D:\1150projects\1150projects\HTMLCSSGoldBadge\C#stuff\Hangman\bin\Debug\Hangman.pdb
+D:\1150projects\1150projects\HTMLCSSGoldBadge\C#stuff\Hangman\obj\Debug\Hangman.exe
+D:\1150projects\1150projects\HTMLCSSGoldBadge\C#stuff\Hangman\obj\Debug\Hangman.pdb
+F:\1150projects\1150projects\HTMLCSSGoldBadge\C#stuff\Hangman\bin\Debug\Hangman.exe.config
+F:\1150projects\1150projects\HTMLCSSGoldBadge\C#stuff\Hangman\bin\Debug\Hangman.exe
+F:\1150projects\1150projects\HTMLCSSGoldBadge\C#stuff\Hangman\bin\Debug\Hangman.pdb
+F:\1150projects\1150projects\HTMLCSSGoldBadge\C#stuff\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
+F:\1150projects\1150projects\HTMLCSSGoldBadge\C#stuff\Hangman\obj\Debug\Hangman.exe
+F:\1150projects\1150projects\HTMLCSSGoldBadge\C#stuff\Hangman\obj\Debug\Hangman.pdb
+C:\Users\Chandler\Desktop\1150\Gold Badge Projects\HangMan\HangyBoi-master\bin\Debug\Hangman.exe.config
+C:\Users\Chandler\Desktop\1150\Gold Badge Projects\HangMan\HangyBoi-master\bin\Debug\Hangman.exe
+C:\Users\Chandler\Desktop\1150\Gold Badge Projects\HangMan\HangyBoi-master\bin\Debug\Hangman.pdb
+C:\Users\Chandler\Desktop\1150\Gold Badge Projects\HangMan\HangyBoi-master\obj\Debug\Hangman.csprojAssemblyReference.cache
+C:\Users\Chandler\Desktop\1150\Gold Badge Projects\HangMan\HangyBoi-master\obj\Debug\Hangman.exe
+C:\Users\Chandler\Desktop\1150\Gold Badge Projects\HangMan\HangyBoi-master\obj\Debug\Hangman.pdb
